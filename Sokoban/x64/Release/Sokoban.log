@@ -1,0 +1,10 @@
+﻿  box.cpp
+  level_manager.cpp
+  player.cpp
+  sokoban.cpp
+  Source.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 268 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Sokoban.vcxproj -> C:\Users\jkkam\Desktop\Studia\PO\Projekt\Sokoban\x64\Release\Sokoban.exe
